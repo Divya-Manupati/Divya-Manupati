@@ -4,7 +4,7 @@ Hello, Community!
 # After graduation i have 2 years of gap, as i used to prepare and try for the govt job, due to personal reasons, i was unable to continue pursuing those exams,
 # but that experience helped me to develop a strong foundation in Analytical thinking, Adaptability and flexibility, Research and information - gathering skills, Self-directed learning.
 # I'm now eager to bring these skills and start my Professional journey and focus on growing my career in data science.
-# I believe that my education, the skills I possed while preparing for Competitive exams and now my passion towards #datascience makes me a strong candidate for roles in this field.
+# I believe that my education, the skills I acquired while preparing for Competitive exams and now my passion towards #datascience makes me a strong candidate for roles in this field.
 # As a self-starter with a commitment to continuous learning, right now am pursuing "POSTGRADUATIONPROGRAM in DataAnalytics #purdueuniversity #simplilearn 
 # I'm excited to connect and explore opportunities in the data science community.
 
